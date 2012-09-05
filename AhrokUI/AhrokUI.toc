@@ -1,0 +1,11 @@
+## Interface: 50001
+## Title: |cffC495DDAhrokUi|r
+## Notes: Edited version of Tukui.
+## Author: Tukz, Ahrok
+## Version: 2.0.0
+## SavedVariables: TukuiData
+## SavedVariablesPerCharacter: TukuiSaved, ClickCast
+## RequiredDeps: AhrokUiConfig, Tukui
+## X-oUF: oUFTukui
+
+ahrokui.xml

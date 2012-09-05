@@ -1,0 +1,17 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Include file="core\oUF\oUF.xml"/>
+	<Script file="layouts\arena.lua" />
+	<Script file="layouts\boss.lua" />
+	<Script file="layouts\focus.lua" />
+	<Script file="layouts\focustarget.lua" />
+	<Script file="layouts\mainassist.lua" />
+	<Script file="layouts\pet.lua" />
+	<Script file="layouts\player.lua" />
+	<Script file="layouts\position.lua" />
+	<Script file="layouts\target.lua" />
+	<Script file="layouts\targettarget.lua" />
+	<Script file="layouts\raidframes.lua" />
+	<Script file="functions\functions.lua" />
+	<Script file="tags\tags.lua" />
+	<Script file="layouts\classbars.lua" />
+</Ui>

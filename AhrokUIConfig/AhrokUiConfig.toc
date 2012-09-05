@@ -1,0 +1,7 @@
+## Interface: 50001
+## Title: |cffC495DDAhrokUI: Options|r
+## Notes: Default Configuration for AhrokUi
+## Version: 2.0.0
+## Author: Ahrok
+
+config\config.lua

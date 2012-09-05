@@ -1,0 +1,17 @@
+﻿<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="core\api.lua"/>
+	<Script file="core\functions.lua"/>
+	<Script file="core\command.lua"/>
+	<Script file="core\move.lua"/>
+
+	<Script file="modules\panels\panels.lua"/>
+	<Script file="modules\bags\bags.lua"/>
+	<Script file="modules\datatext\datatext.lua"/>
+	<Script file="modules\extras\addonpanel.lua"/>
+	<Script file="modules\extras\markbar.lua"/>
+	
+	<Include file="modules\actionbars\load_actionbars.xml"/>
+	<Include file="modules\skins\load_skins.xml"/>
+	<Include file="modules\unitframes\load_unitframes.xml"/>
+	<Include file="locales\load_locales.xml"/>
+</Ui>
